@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Now%20Use%20Me!!!&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Good%20Back-End%20Developer&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Now%20Use%20Me!!!&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=I'm%20Good%20Back-End%20Developer&descAlignY=70)
 
 저는 Bob Park(박현우) 입니다. 저는 조금의 `Front-End` 지식을 가지고 있는 `Back-End` 개발자이며,
 
