@@ -4,7 +4,7 @@
 
 현재 [(주)맑은기술](http://www.malgn.com) 이라는 회사에 재직중입니다.
 
-저는 주로 <img src="https://img.shields.io/badge/-Java-blue"> <img src="https://img.shields.io/badge/-ORM-blue"> <img src="https://img.shields.io/badge/-JPA-blue"> <img src="https://img.shields.io/badge/-QueryDSL-blue"> <img src="https://img.shields.io/badge/-Sring Boot-brightgreen?style=flat&logo=spring boot"> <img src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker"> 을 주로 사용하여 Back-End 개발을 하고 있습니다.
+저는 주로 <img src="https://img.shields.io/badge/-Spring Framework-brightgreen?style=flat&logo=spring"> <img src="https://img.shields.io/badge/-Java-blue"> <img src="https://img.shields.io/badge/-ORM-blue"> <img src="https://img.shields.io/badge/-JPA-blue"> <img src="https://img.shields.io/badge/-QueryDSL-blue"> <img src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker"> 을 주로 사용하여 Back-End 개발을 하고 있습니다.
 
 ### My Skills :thumbsup:
 
