@@ -30,7 +30,7 @@
 
 제 이력서 링크는 다음과 같습니다.
 
-[Notion 이력서](https://decisive-cairnsmore-7fa.notion.site/Bob-Park-b7bbf7d9a7e446bf9bfe0d503f1b8769)
+[Notion 이력서](https://bob-park.notion.site/Bob-Park-b7bbf7d9a7e446bf9bfe0d503f1b8769)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bob-park&show_icons=true&theme=transparent)
