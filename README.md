@@ -33,4 +33,4 @@
 [Notion 이력서](https://bob-park.notion.site/Bob-Park-b7bbf7d9a7e446bf9bfe0d503f1b8769)
 
 
-[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/bob-park)
+[![My GitFut card](https://gitfut.com/bob-park.png)](https://gitfut.com/bob-park)
